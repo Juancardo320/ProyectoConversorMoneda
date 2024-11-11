@@ -1,0 +1,41 @@
+
+Fecha de la operacion: 10/11/2024
+Cantidad preliminar : 10000.0 COP
+Tipo de Cambio:  2.2982E-4 USD/COP
+Resultado de la operacion: 2,30 USD
+********** 
+
+Fecha de la transaccion: 11/11/2024
+Cantidad inicial: 20000.0 COP
+Resultado: 4,60 USD
+********** 
+
+Fecha de la transaccion: 11/11/2024
+Cantidad inicial: 15000.0 COP
+Resultado: 3,21 EUR
+********** 
+
+Fecha de la transaccion: 11/11/2024
+Cantidad inicial: 300000.0 COP
+Resultado: 68,95 USD
+********** 
+
+Fecha de la transaccion: 11/11/2024
+Cantidad inicial: 950000.0 COP
+Resultado: 203,29 EUR
+********** 
+
+Fecha de la transaccion: 11/11/2024
+Cantidad inicial: 50000.0 EUR
+Resultado: 53.590,00 USD
+********** 
+
+Fecha de la transaccion: 11/11/2024
+Cantidad inicial: 1.235E7 COP
+Resultado: 2.642,78 EUR
+********** 
+
+Fecha de la transaccion: 11/11/2024
+Cantidad inicial: 14.0 COP
+Resultado: 0,00 EUR
+********** 
